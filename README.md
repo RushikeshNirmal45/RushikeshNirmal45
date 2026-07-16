@@ -1,98 +1,265 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1E1B4B,00FF66&height=250&section=header&text=Rushikesh%20Valmik%20Nirmal&fontSize=50&fontColor=ffffff&fontFamily=Fira%20Code&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=18" width="100%"/>
 
-![Header](https://capsule-render.com/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Rushikesh%20Valmik%20Nirmal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20CTF%20Player&descAlignY=55&descSize=18)
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(Cyber+Security)+Student;Ethical+Hacker+%7C+CTF+Player;Python+%7C+Linux+%7C+Networking+Enthusiast;Exploring+AI+in+Cybersecurity" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF66&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Cyber+Security)+Student;Learning+to+Break+Things+to+Understand+Them;Python+%7C+Linux+%7C+Networking;Exploring+AI+in+Cybersecurity" alt="Typing SVG" />
 
 <br/>
 
-![Academic](https://img.shields.io/badge/CGPA-8.82%20(First%20Year)-8A2BE2?style=for-the-badge)
-![University](https://img.shields.io/badge/Sanjivani%20University-Kopargaon-6a11cb?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-2575fc?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/Cybersecurity-Student-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.82%20(First%20Year)-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-2575fc?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](#)
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=6a11cb&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=2575fc&label=STARS)
-
+<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=00F0FF&label=STARS"/>
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm **Rushikesh Valmik Nirmal**, a second-year **B.Tech CSE (Cyber Security)** student at **Sanjivani University, Kopargaon**, with a **CGPA of 8.82** in my first year.
-
-My core interest lies in **Ethical Hacking**, **Capture The Flag (CTF) challenges**, and **Web Security**, backed by strong fundamentals in **Python programming**, **Networking**, and **Linux**. I'm also exploring the intersection of **Artificial Intelligence and Cybersecurity**, aiming to build practical, security-first solutions.
-
-I approach security the way an engineer approaches systems — methodically, curiously, and with a habit of asking "how can this be broken, and how can it be fixed?"
-
-**🎯 Open To:** CTF Teams · Security Internships · Bug Bounty Collaboration · Open Source Security Projects
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 🕵️‍♂️ [RECON] ~ About Me
 
-**Languages**
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![Bash](https://skillicons.dev/icons?i=bash)
-![JavaScript](https://skillicons.dev/icons?i=js)
+```bash
+# rushikesh@root:~$ ./recon_scan.sh --target visitor
+[+] Scanning visitor credentials...
+[+] Status: CONNECTION ESTABLISHED
+[+] Alert: Cybersecurity enthusiast detected on page.
+[+] Action: Initiating terminal view...
+```
 
-**Security & Networking**
-![Linux](https://skillicons.dev/icons?i=linux)
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+```yaml
+# rushikesh@root:~$ cat about_me.yaml
+whoami: Rushikesh Valmik Nirmal
+role: "B.Tech CSE (Cyber Security) Student"
+university: Sanjivani University, Kopargaon
+year: Second Year
+cgpa: 8.82 (First Year)
+focus:
+  - Ethical Hacking
+  - Capture The Flag (CTF)
+  - Web Security
+  - Python Programming
+  - Networking
+  - Linux
+  - Artificial Intelligence in Cybersecurity
+philosophy: >
+  I'm still early in this field, learning how systems work
+  so I can understand how they break — and how to defend them.
+open_to:
+  - Cybersecurity Internships
+  - CTF Team Opportunities
+  - Bug Bounty Collaboration
+  - Open Source Security Projects
+```
 
-**Web & Tools**
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+I'm a second-year Cyber Security student at Sanjivani University, Kopargaon, currently building my foundations in ethical hacking, CTF problem-solving, and web security — backed by hands-on practice in Python, Linux, and networking fundamentals.
+
+<br/>
 
 ---
 
-## 🔐 Cybersecurity Focus Areas
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Ethical Hacking | 🟣🟣🟣⚪⚪ Intermediate | Reconnaissance, vulnerability scanning, exploitation basics |
-| Capture The Flag (CTF) | 🟣🟣🟣⚪⚪ Intermediate | Web, crypto, and forensics category challenges |
-| Web Security | 🟣🟣🟣⚪⚪ Intermediate | OWASP Top 10, common web vulnerabilities |
-| Python Programming | 🟣🟣🟣🟣⚪ Proficient | Scripting, automation, security tooling |
-| Networking | 🟣🟣🟣⚪⚪ Intermediate | TCP/IP, protocols, packet analysis |
-| Linux | 🟣🟣🟣🟣⚪ Proficient | System administration, CLI, shell scripting |
-| AI in Cybersecurity | 🟣🟣⚪⚪⚪ Exploring | Applying AI concepts to threat detection |
-
----
-
-## 📚 Currently Learning
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 📡 [SCAN] ~ Tech Stack
 
 <div align="center">
 
-![Pentesting](https://img.shields.io/badge/Penetration%20Testing-6a11cb?style=for-the-badge)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty%20Methodology-8A2BE2?style=for-the-badge)
-![SecWebDev](https://img.shields.io/badge/Secure%20Web%20Development-2575fc?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1a1a2e?style=for-the-badge)
+**Programming & Scripting**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,bash,js" />
+
+<br/>
+
+**Security & Tooling**
+<br/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<br/>
+
+**Web & Backend Basics**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+
+<br/>
+
+**Environment & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🎯 Current Focus
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> ⚔️ [SKILL LEVEL] ~ Cybersecurity Proficiency
+
+| 📡 Domain | 🎚️ Level | 🧪 Details |
+|---|---|---|
+| `Ethical Hacking` | `[██████░░░░] 60%` | Reconnaissance, vulnerability scanning, exploitation basics |
+| `Capture The Flag (CTF)` | `[██████░░░░] 60%` | Solving web, crypto, and forensics category challenges |
+| `Web Security` | `[█████░░░░░] 50%` | OWASP Top 10 concepts, common web vulnerabilities |
+| `Python Programming` | `[███████░░░] 70%` | Scripting, automation, basic security tooling |
+| `Networking` | `[██████░░░░] 60%` | TCP/IP, protocols, packet analysis |
+| `Linux` | `[███████░░░] 70%` | System administration, CLI, shell scripting |
+| `AI in Cybersecurity` | `[████░░░░░░] 40%` | Exploring applications in threat detection |
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> 📁 [ROOT ACCESS] ~ Featured Projects
+
+<details>
+<summary><b>🔧 Project Name — Short Description</b></summary>
+<br/>
+
+Brief description of what the project does and why it was built.
+
+| Aspect | Detail |
+|---|---|
+| Stack | e.g. Python, Flask |
+| Category | e.g. Security Tooling |
+| Difficulty | Beginner / Intermediate |
+| Core Concept | What the project demonstrates |
+| Impact | What it helps with or teaches |
+| Repository | github.com/your-username/repo-name |
+
+</details>
+
+<details>
+<summary><b>🔧 Project Name — Short Description</b></summary>
+<br/>
+
+Brief description of what the project does and why it was built.
+
+| Aspect | Detail |
+|---|---|
+| Stack | e.g. Python, Bash |
+| Category | e.g. CTF / Automation |
+| Difficulty | Beginner / Intermediate |
+| Core Concept | What the project demonstrates |
+| Impact | What it helps with or teaches |
+| Repository | github.com/your-username/repo-name |
+
+</details>
+
+> *Add your CTF write-ups, scripts, or lab projects here as you build them.*
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 🏆 [CONSTRAINTS SOLVED] ~ CTF Progress
+
+<details>
+<summary><b>🗝️ Challenges Solved</b></summary>
+<br/>
+
+Track your solved challenges here as you progress through platforms like TryHackMe, HackTheBox, or picoCTF — category, difficulty, and key concept for each.
+
+*Example format:*
+
+**Challenge Name**
+Category/Diff: Web | Easy
+Concept: Brief description of the vulnerability or technique
+Exploitation: What you did to solve it
+
+</details>
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"/> 📜 [VERIFIED CREDS] ~ Certifications
+
+<div align="center">
+
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+**NPTEL**
+<br/>
+<img src="https://img.shields.io/badge/NPTEL-Cybersecurity%20%2F%20CS%20Fundamentals-8B5CF6?style=for-the-badge"/>
+
+*Add AWS / Oracle badges here as earned*
+
+</div>
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="30"/> 👾 [CTF LOGINS] ~ Coding & CTF Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"/> 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00FF66&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakLabel=8B5CF6" />
+
+</div>
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"/> 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+
+</div>
+
+<br/>
+
+### <img src="https://media.giphy.com/media/kJ1LM3zLef1jK/giphy.gif" width="30"/> 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> 🎯 [CURRENT MISSION] ~ Current Focus
 
 ```yaml
+# rushikesh@root:~$ cat current_focus.yaml
 learning:
   - Penetration Testing
   - Bug Bounty Methodology
@@ -113,61 +280,22 @@ open_to:
   - Collaborative bug bounty projects
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=6a11cb&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" />
-
-<img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=6a11cb&currStreakLabel=8A2BE2" />
-
-</div>
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+### <img src="https://media.giphy.com/media/l0MYryZnP58extY9y/giphy.gif" width="30"/> 📞 [ESTABLISHING CONNECTION] ~ Connect With Me
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=7)
+<a href="#"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=6a11cb&point=ffffff)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-2575fc?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
+<br/>
 
 ---
 
@@ -175,6 +303,6 @@ open_to:
 
 *"The quieter you become, the more you are able to hear."*
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1E1B4B,00FF66&height=120&section=footer" width="100%"/>
 
 </div>
