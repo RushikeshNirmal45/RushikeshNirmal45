@@ -18,9 +18,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=00F0FF&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=RushikeshNirmal45&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/RushikeshNirmal45?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/RushikeshNirmal45?style=for-the-badge&color=00F0FF&label=STARS"/>
 </div>
 
 <br/>
@@ -134,7 +134,7 @@ Brief description of what the project does and why it was built.
 | Difficulty | Beginner / Intermediate |
 | Core Concept | What the project demonstrates |
 | Impact | What it helps with or teaches |
-| Repository | github.com/your-username/repo-name |
+| Repository | github.com/RushikeshNirmal45/repo-name |
 
 </details>
 
@@ -151,7 +151,7 @@ Brief description of what the project does and why it was built.
 | Difficulty | Beginner / Intermediate |
 | Core Concept | What the project demonstrates |
 | Impact | What it helps with or teaches |
-| Repository | github.com/your-username/repo-name |
+| Repository | github.com/RushikeshNirmal45/repo-name |
 
 </details>
 
@@ -221,12 +221,12 @@ Exploitation: What you did to solve it
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00FF66&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RushikeshNirmal45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00FF66&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNirmal45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=RushikeshNirmal45&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00FF66&currStreakLabel=8B5CF6" />
 
 </div>
 
@@ -238,7 +238,7 @@ Exploitation: What you did to solve it
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RushikeshNirmal45&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
 
@@ -248,7 +248,7 @@ Exploitation: What you did to solve it
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/RushikeshNirmal45/RushikeshNirmal45/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
